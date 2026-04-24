@@ -44,6 +44,6 @@
 ![下载Shadowrocket应用](https://tarticle.oss-cn-shenzhen.aliyuncs.com/article/1_ede03e1bc8.png)
 
 # 推荐工具
-## IP检测工具 —— ToDtect
+## IP检测工具 —— ToDetect
 
 [ToDetect](https://www.todetect.cn)是一款专业级浏览器指纹检测工具，可以一键检测IP纯净度、DNS泄露测试、WebRTC检测等浏览器信息，在线免费测试，一键生成检测报告.
