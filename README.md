@@ -43,7 +43,9 @@
 
 ![下载Shadowrocket应用](https://tarticle.oss-cn-shenzhen.aliyuncs.com/article/1_ede03e1bc8.png)
 
+## 视频演示：
 
+https://github.com/Tim-ip-check/iphone-socks5-proxy/issues/2
 
 
 
